@@ -1,3 +1,4 @@
+File Location,File Name,Spoken Phrase
 SOUNDS/en/SYSTEM,0000.wav,0
 SOUNDS/en/SYSTEM,0001.wav,1
 SOUNDS/en/SYSTEM,0002.wav,2
@@ -535,7 +536,7 @@ SOUNDS/en,homelk.wav,Home Lock
 SOUNDS/en,horizn.wav,Horizon
 SOUNDS/en,hotter.wav,Hotter
 SOUNDS/en,hovemd.wav,Hover Mode
-SOUNDS/en,hover.wav,Hover 
+SOUNDS/en,hover.wav,Hover
 SOUNDS/en,hovmd.wav,Hover Mode
 SOUNDS/en,hrzmd.wav,Horizon Mode
 SOUNDS/en,hvlipo.wav,HV Lipo
