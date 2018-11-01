@@ -6,7 +6,7 @@ The [zip](SSP.zip) (Click on Download next to History) above contains all the fi
 
 Just have a look at the [file list](SSP_FileList.csv) above and choose the files you want.
 
-## Links For Sound Pack Help and Install
+### Links For Sound Pack Help and Install
 * [OpenTx](https://www.open-tx.org/)
 * [OpenTX Audio Information](https://opentx.gitbooks.io/manual-for-opentx-2-2/advanced/audio.html)
 * [Project Blue Falcon Sound Pack Install Video](https://www.youtube.com/watch?v=DKjxo4ZlxqI)
