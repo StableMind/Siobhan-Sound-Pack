@@ -13,7 +13,7 @@ Just have a look at the [file list](SSP_FileList.csv) above and choose the files
 * [Joshua Bardwell's Video On Adding Voices to Switches](https://www.youtube.com/watch?v=YhHliJsOOyg)
 
 We hope you enjoy The Siobhan Sound Pack and if you find any bugs or errors please let us know. ~~There are a few files missing but we will get those recorded and up soon.~~ This has only been tested on the FrSky Qx7 at the moment so if you could try on other devices and give us some feedback that would help. We are working on an easy way to select and download files and hope to bring you that soon. There are a few duplicated file but the file names are different as we are still tring to work out the file structure.
-### UPDATE:2/11/1018 @ 16:05 GMT Thanks to [vi3telit3](https://www.reddit.com/user/vi3telit3) over on [Reddit](https://www.reddit.com) who spotted that not all the files were 16bit, we have updated all the files now to the right bitrate.
+#### UPDATE: 02/11/1018 @ 16:05 GMT Thanks to [vi3telit3](https://www.reddit.com/user/vi3telit3) over on [Reddit](https://www.reddit.com) who spotted that not all the files were 16bit, we have updated all the files now to the right bitrate.
 
 
 ### Link to Siobhans Website for Voice Over and Art Enquires
