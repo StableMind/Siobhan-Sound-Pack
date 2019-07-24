@@ -13,7 +13,7 @@ Just have a look at the [file list](SSP_FileList.csv) above and choose the files
 * [Joshua Bardwell's Video On Adding Voices to Switches](https://www.youtube.com/watch?v=YhHliJsOOyg)
 
 ### Social Links
-* [Reddit](https://>reddit.com/r/SiobhanSoundPack/)
+* [Reddit](https://reddit.com/r/SiobhanSoundPack/)
 * [@SiobhanSoundPac](https://twitter.com/siobhansoundpac)
 
 
