@@ -2,7 +2,7 @@
 
 The Siobhan Sound Pack contains over 500 Sounds For Multicopters, Planes and more. 
 
-The [zip](SSP.zip) (Click on Download next to History) above contains all the files but we will be putting then in a small, medium and full sized pack format soon. You can pick individual files from the [en](en/) and [SYSTEM](en/SYSTEM) folders to suit your needs (Right Click,Save Link As..). 
+The [zip](SSP.zip) (Click on Download next to History) above contains all the files but you can pick individual files from the [en](en/) and [SYSTEM](en/SYSTEM) folders to suit your needs (Right Click,Save Link As..). 
 
 Just have a look at the [file list](SSP_FileList.csv) above and choose the files you want.
 
