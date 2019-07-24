@@ -1,6 +1,6 @@
 ## A Sound Pack For Open TX 2.2 Featuring the Voice of Siobhan.
 
-The Siobhan Sound Pack contains over 700 Sounds For Multicopters, Planes and more. 
+The Siobhan Sound Pack contains over 500 Sounds For Multicopters, Planes and more. 
 
 The [zip](SSP.zip) (Click on Download next to History) above contains all the files but we will be putting then in a small, medium and full sized pack format soon. You can pick individual files from the [en](en/) and [SYSTEM](en/SYSTEM) folders to suit your needs (Right Click,Save Link As..). 
 
