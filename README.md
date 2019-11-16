@@ -6,6 +6,11 @@ The [zip](SSP.zip) (Click on Link Then Click on Download) contains all the files
 
 Just have a look at the [file list](SSP_FileList.csv) above and choose the files you want.
 
+### Versions
+The [SSP.zip](SSP.zip) has all the files we have recorded.
+
+The [SSP_Small_Pack.zip](SSP_Small_Pack.zip) has the same files as a default install of OpenTX.
+
 ### YouTube Video Of All The Sound
 * [Siobhan Sound Pack On YouTube](https://youtu.be/FfWKZzbMzUQ)
 
